@@ -1,4 +1,4 @@
-﻿# Daily Tasks
+# Daily Tasks
 
 ### 1. Reverse Prefix of Word
 
