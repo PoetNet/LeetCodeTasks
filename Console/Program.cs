@@ -27,7 +27,17 @@ using Tasks.LeetCode75.ArrayStringTopic;
 
 // ----------------------------------------------------------------------------
 
-var comparator = new VersionsComparator();
-var result1 = comparator.CompareVersion("1.01", "1.001");
-var result2 = comparator.CompareVersion("1.0", "1.000");
-var result3 = comparator.CompareVersion("0.1", "1.0.0");
+//var comparator = new VersionsComparator();
+//var result1 = comparator.CompareVersion1("1.01", "1.001");
+//var result2 = comparator.CompareVersion1("1.0", "1.000");
+//var result3 = comparator.CompareVersion1("0.1", "1.0.0");
+
+// ----------------------------------------------------------------------------
+
+//var comparator = new IncreasingTripletFinder();
+//var result1 = comparator.IncreasingTriplet(new int[] { 0, 100, 10, 12, 5, 13 });
+
+// ----------------------------------------------------------------------------
+
+var compressor = new StringCompressor();
+var result1 = compressor.Compress(new char[] { 'a', 'a', 'b', 'b', 'c', 'c', 'c' });
