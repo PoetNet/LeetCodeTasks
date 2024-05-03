@@ -39,7 +39,7 @@ merged: a p b q c   d
 - `1 <= word1.length, word2.length <= 100`
 - `word1` and `word2` consist of lowercase English letters.
 
-# 2. [[Greatest Common Divisor of Strings|Greatest Common Divisor of Strings]]
+### 2. [[Greatest Common Divisor of Strings|Greatest Common Divisor of Strings]]
 
 #Medium
 
@@ -67,7 +67,7 @@ Given two strings `str1` and `str2`, return _the largest string_ `x` _such
 - `1 <= str1.length, str2.length <= 1000`
 - `str1` and `str2` consist of English uppercase letters.
 
-# 3. [[Kids With the Greatest Number of Candies]]
+### 3. [[Kids With the Greatest Number of Candies]]
 
 #Easy
 
@@ -107,7 +107,7 @@ Kid 1 will always have the greatest number of candies, even if a different kid i
 - `1 <= candies[i] <= 100`
 - `1 <= extraCandies <= 50`
 
-# 4. [[Can Place Flowers]]
+### 4. [[Can Place Flowers]]
 
 #Easy
 
@@ -131,13 +131,9 @@ Given an integer array `flowerbed` containing `0`'s and `1`'s, where `0` m
 - `flowerbed[i]` is `0` or `1`.
 - There are no two adjacent flowers in `flowerbed`.
 - `0 <= n <= flowerbed.length`
-# 5. [[Reverse Vowels of a String]]
+### 5. [[Reverse Vowels of a String]]
 
-Easy
-
-Topics
-
-Companies
+#Easy
 
 Given a string `s`, reverse only all the vowels in the string and return it.
 
@@ -158,7 +154,7 @@ The vowels are `'a'`, `'e'`, `'i'`, `'o'`, and `'u'`, and they can appear i
 - `1 <= s.length <= 3 * 105`
 - `s` consist of **printable ASCII** characters.
 
-# 6. [[Reverse Words in a String]]
+### 6. [[Reverse Words in a String]]
 
 #Medium
 
@@ -194,3 +190,31 @@ Return _a string of the words in reverse order concatenated by a single space._
 - There is **at least one** word in `s`.
 
 **Follow-up:** If the string data type is mutable in your language, can you solve it **in-place** with `O(1)` extra space? 
+
+### 7. [[Product of Array Except Self]]
+
+#Medium
+
+Given an integer array `nums`, return _an array_ `answer` _such that_ `answer[i]` _is equal to the product of all the elements of_ `nums` _except_ `nums[i]`.
+
+The product of any prefix or suffix of `nums` is **guaranteed** to fit in a **32-bit** integer.
+
+You must write an algorithm that runs in `O(n)` time and without using the division operation.
+
+**Example 1:**
+
+**Input:** nums = [1,2,3,4]
+**Output:** [24,12,8,6]
+
+**Example 2:**
+
+**Input:** nums = [-1,1,0,-3,3]
+**Output:** [0,0,9,0,0]
+
+**Constraints:**
+
+- `2 <= nums.length <= 105`
+- `-30 <= nums[i] <= 30`
+- The product of any prefix or suffix of `nums` is **guaranteed** to fit in a **32-bit** integer.
+
+**Follow up:** Can you solve the problem in `O(1)` extra space complexity? (The output array **does not** count as extra space for space complexity analysis.)
