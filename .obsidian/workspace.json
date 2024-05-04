@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/LeetCode75/ArrayStringTopic README.md",
+                "file": "Tasks/Daily/April2024/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 200
   },
   "right": {
     "id": "cf764db7046f97e7",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/LeetCode75/ArrayStringTopic README.md",
+                "file": "Tasks/Daily/April2024/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/LeetCode75/ArrayStringTopic README.md",
+                "file": "Tasks/Daily/April2024/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/LeetCode75/ArrayStringTopic README.md"
+                "file": "Tasks/Daily/April2024/README.md"
               }
             }
           }
@@ -160,6 +160,9 @@
   },
   "active": "e6401f687395e7ae",
   "lastOpenFiles": [
+    "Tasks/Daily/April2024/4.BoatCounter.cs",
+    "Tasks/Daily/April2024/3 - Copy.VersionsComparator.cs",
+    "Tasks/LeetCode75/ArrayStringTopic README.md",
     "Tasks/LeetCode75/ArrayStringTopic/9.StringCompressor.cs",
     "Tasks/LeetCode75/ArrayStringTopic/9.StringCompresser.cs",
     "Tasks/LeetCode75/ArrayStringTopic/8 - Copy.IncreasingTripletFinder.cs",
@@ -170,11 +173,8 @@
     "Tasks/Daily/April2024/3.VersionsComparator.cs",
     "Tasks/Daily/April2024/2 - Copy.MaxKFinder.cs",
     "Tasks/Daily/April2024/Compare Version Numbers.md",
-    "Tasks/LeetCode75/ArrayStringTopic README.md",
     "Tasks/LeetCode75/ArrayStringTopic/Product of Array Except Self.md",
     "Tasks/LeetCode75/ArrayStringTopic/7.ProductExceptSelfCalculator.cs",
-    "Tasks/LeetCode75/ArrayStringTopic/6 - Copy.WordsReverser.cs",
-    "Tasks/Daily/April2024/2.MaxKFinder.cs",
     "Tasks/LeetCode75/ArrayStringTopic/Kids With the Greatest Number of Candies.md",
     "Tasks/LeetCode75/ArrayStringTopic/Reverse Vowels of a String.md",
     "Reverse Words in a String.md",

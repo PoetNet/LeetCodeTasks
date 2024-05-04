@@ -39,5 +39,10 @@ using Tasks.LeetCode75.ArrayStringTopic;
 
 // ----------------------------------------------------------------------------
 
-var compressor = new StringCompressor();
-var result1 = compressor.Compress(new char[] { 'a', 'a', 'b', 'b', 'c', 'c', 'c' });
+//var compressor = new StringCompressor();
+//var result1 = compressor.Compress(new char[] { 'a', 'a', 'b', 'b', 'c', 'c', 'c' });
+
+// ----------------------------------------------------------------------------
+
+//var result1 = BoatCounter.NumRescueBoats(new int[] { 1, 5, 3, 5 }, 7);
+var result2 = BoatCounter.NumRescueBoats(new int[] { 21, 40, 16, 24, 30 }, 50);
