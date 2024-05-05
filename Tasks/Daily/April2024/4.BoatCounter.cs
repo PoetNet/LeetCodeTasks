@@ -2,7 +2,7 @@
 
 public class BoatCounter
 {
-    public static int NumRescueBoats(int[] people, int limit)
+    public static int NumRescueBoats1(int[] people, int limit) // Wrong version
     {
         var boats = new List<int>();
 
@@ -22,5 +22,26 @@ public class BoatCounter
         }
 
         return boats.Count;
+    }
+
+    public static int NumRescueBoats2(int[] people, int limit) // Wrong version
+    {
+        Array.Sort(people);
+
+        int boats = 0;
+        int left = 0, right = people.Length - 1;
+        
+        while (left <= right)
+        {
+            if (people[left] + people[right] <= limit)
+            {
+                left++;
+            }
+
+            right--;
+            boats++;
+        }
+
+        return boats;
     }
 }

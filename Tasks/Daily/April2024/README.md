@@ -105,7 +105,7 @@ _Return the following:_
 - `version1` and `version2` **are valid version numbers**.
 - All the given revisions in `version1` and `version2` can be stored in a **32-bit integer**.
 
-### 4. [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
+### 4. [[Boats to Save People]]
 
 #Medium
 

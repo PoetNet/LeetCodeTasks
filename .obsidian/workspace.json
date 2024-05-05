@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Daily/April2024/README.md",
+                "file": "Tasks/Daily/April2024/Boats to Save People.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Daily/April2024/README.md",
+                "file": "Tasks/Daily/April2024/Boats to Save People.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/Daily/April2024/README.md",
+                "file": "Tasks/Daily/April2024/Boats to Save People.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Daily/April2024/README.md"
+                "file": "Tasks/Daily/April2024/Boats to Save People.md"
               }
             }
           }
@@ -158,23 +158,24 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e6401f687395e7ae",
+  "active": "282f1f589d454eb9",
   "lastOpenFiles": [
-    "Tasks/Daily/April2024/4.BoatCounter.cs",
-    "Tasks/Daily/April2024/3 - Copy.VersionsComparator.cs",
-    "Tasks/LeetCode75/ArrayStringTopic README.md",
-    "Tasks/LeetCode75/ArrayStringTopic/9.StringCompressor.cs",
-    "Tasks/LeetCode75/ArrayStringTopic/9.StringCompresser.cs",
-    "Tasks/LeetCode75/ArrayStringTopic/8 - Copy.IncreasingTripletFinder.cs",
-    "Tasks/LeetCode75/ArrayStringTopic/8.IncreasingTripletFinder.cs",
-    "Tasks/LeetCode75/ArrayStringTopic/8.IncreasinTripletFinder.cs",
-    "Tasks/LeetCode75/ArrayStringTopic/7 - Copy.ProductExceptSelfCalculator.cs",
+    "Console/obj/Debug/net8.0/Console.AssemblyInfo.cs",
+    "Console/obj/Debug/net8.0/Console.AssemblyInfoInputs.cache",
+    "Console/obj/Debug/net8.0/Console.GeneratedMSBuildEditorConfig.editorconfig",
+    "Console/obj/Debug/net8.0/refint",
+    "Console/obj/Debug/net8.0/ref",
+    "Console/obj/Debug/net8.0/Console.GlobalUsings.g.cs",
+    "Console/obj/Debug/net8.0",
+    "Console/obj/Debug",
+    "Console/obj",
+    "Console/bin/Debug/net8.0",
+    "Console/bin/Debug",
     "Tasks/Daily/April2024/README.md",
-    "Tasks/Daily/April2024/3.VersionsComparator.cs",
-    "Tasks/Daily/April2024/2 - Copy.MaxKFinder.cs",
+    "Tasks/Daily/April2024/Boats to Save People.md",
+    "Tasks/LeetCode75/ArrayStringTopic README.md",
     "Tasks/Daily/April2024/Compare Version Numbers.md",
     "Tasks/LeetCode75/ArrayStringTopic/Product of Array Except Self.md",
-    "Tasks/LeetCode75/ArrayStringTopic/7.ProductExceptSelfCalculator.cs",
     "Tasks/LeetCode75/ArrayStringTopic/Kids With the Greatest Number of Candies.md",
     "Tasks/LeetCode75/ArrayStringTopic/Reverse Vowels of a String.md",
     "Reverse Words in a String.md",
