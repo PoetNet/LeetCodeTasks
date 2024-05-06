@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Daily/April2024/README.md",
+                "file": "Tasks/TaskTags/TwoPointers/Easy/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cf764db7046f97e7",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Daily/April2024/README.md",
+                "file": "Tasks/TaskTags/TwoPointers/Easy/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/Daily/April2024/README.md",
+                "file": "Tasks/TaskTags/TwoPointers/Easy/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Daily/April2024/README.md"
+                "file": "Tasks/TaskTags/TwoPointers/Easy/README.md"
               }
             }
           }
@@ -161,19 +160,20 @@
   },
   "active": "e6401f687395e7ae",
   "lastOpenFiles": [
-    "Tasks/Daily/April2024/Compare Version Numbers.md",
+    "Console/obj/Debug/net8.0/Console.csproj.FileListAbsolute.txt",
+    "Console/bin/Debug/net8.0/Console.pdb",
+    "Console/obj/Debug/net8.0/ref/Console.dll",
+    "Console/bin/Debug/net8.0/Console.dll",
+    "Console/bin/Debug/net8.0/Console.runtimeconfig.json",
+    "Console/obj/Debug/net8.0/Console.genruntimeconfig.cache",
+    "Console/bin/Debug/net8.0/Console.deps.json",
+    "Console/bin/Debug/net8.0/Console.exe",
+    "Console/obj/Debug/net8.0/Console.csproj.CopyComplete",
+    "Console/bin/Debug/net8.0/Tasks.pdb",
+    "Console/bin/Debug/net8.0/Tasks.dll",
     "Tasks/Daily/April2024/README.md",
-    "Tasks/Daily/April2024/6.NodesRemover.cs",
-    "Tasks/Daily/April2024/5 - Copy.MatrixTransposer.cs",
-    "Tasks/Daily/April2024/5.MatrixTransposer.cs",
-    "Tasks/Daily/April2024/1 - Copy.PartReverser.cs",
+    "Tasks/Daily/April2024/Compare Version Numbers.md",
     "Tasks/Daily/April2024/Boats to Save People.md",
-    "Console/obj/Debug/net8.0/Console.AssemblyInfo.cs",
-    "Console/obj/Debug/net8.0/Console.AssemblyInfoInputs.cache",
-    "Console/obj/Debug/net8.0/Console.GeneratedMSBuildEditorConfig.editorconfig",
-    "Console/obj/Debug/net8.0/refint",
-    "Console/obj/Debug/net8.0/ref",
-    "Console/obj/Debug/net8.0/Console.GlobalUsings.g.cs",
     "Tasks/LeetCode75/ArrayStringTopic README.md",
     "Tasks/LeetCode75/ArrayStringTopic/Product of Array Except Self.md",
     "Tasks/LeetCode75/ArrayStringTopic/Kids With the Greatest Number of Candies.md",

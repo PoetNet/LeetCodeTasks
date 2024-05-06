@@ -1,6 +1,4 @@
-﻿//1.PartReverser
-
-using Tasks.Daily.April2024;
+﻿using Tasks.Daily.April2024;
 using Tasks.LeetCode75.ArrayStringTopic;
 
 //var reverser = new PartReverser();
@@ -45,4 +43,9 @@ using Tasks.LeetCode75.ArrayStringTopic;
 // ----------------------------------------------------------------------------
 
 //var result1 = BoatCounter.NumRescueBoats(new int[] { 1, 5, 3, 5 }, 7);
-var result2 = BoatCounter.NumRescueBoats(new int[] { 21, 40, 16, 24, 30 }, 50);
+//var result2 = BoatCounter.NumRescueBoats(new int[] { 21, 40, 16, 24, 30 }, 50);
+
+// ----------------------------------------------------------------------------
+
+//var result1 = PairsCounter.CountPairs(new int[] { -1, 1, 2, 3, 1 }, 2);
+//var result2 = PairsCounter.CountPairs(new int[] { -6, 2, 5, -2, -7, -1, 3 }, -2);
