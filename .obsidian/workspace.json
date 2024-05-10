@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/TaskTags/TwoPointers/Easy/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Daily/April2024/Compare Version Numbers.md",
+                "file": "Tasks/Daily/April2024/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/TaskTags/TwoPointers/Easy/README.md",
+                "file": "Tasks/Daily/April2024/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/TaskTags/TwoPointers/Easy/README.md",
+                "file": "Tasks/Daily/April2024/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/TaskTags/TwoPointers/Easy/README.md"
+                "file": "Tasks/Daily/April2024/README.md"
               }
             }
           }
@@ -158,8 +159,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e6401f687395e7ae",
+  "active": "e39de7db06b4a21f",
   "lastOpenFiles": [
+    "Tasks/Daily/April2024/7.PrimeFractionFinder.cs",
+    "Tasks/Daily/April2024/6 - Copy.NodesRemover.cs",
+    "Tasks/Daily/April2024/Compare Version Numbers.md",
+    "Tasks/Daily/April2024/Boats to Save People.md",
+    "Tasks/Daily/April2024/README.md",
+    "README.md",
+    "Tasks/TaskTags/TwoPointers/Easy/README.md",
     "Console/obj/Debug/net8.0/Console.csproj.FileListAbsolute.txt",
     "Console/bin/Debug/net8.0/Console.pdb",
     "Console/obj/Debug/net8.0/ref/Console.dll",
@@ -169,18 +177,12 @@
     "Console/bin/Debug/net8.0/Console.deps.json",
     "Console/bin/Debug/net8.0/Console.exe",
     "Console/obj/Debug/net8.0/Console.csproj.CopyComplete",
-    "Console/bin/Debug/net8.0/Tasks.pdb",
-    "Console/bin/Debug/net8.0/Tasks.dll",
-    "Tasks/Daily/April2024/README.md",
-    "Tasks/Daily/April2024/Compare Version Numbers.md",
-    "Tasks/Daily/April2024/Boats to Save People.md",
     "Tasks/LeetCode75/ArrayStringTopic README.md",
     "Tasks/LeetCode75/ArrayStringTopic/Product of Array Except Self.md",
     "Tasks/LeetCode75/ArrayStringTopic/Kids With the Greatest Number of Candies.md",
     "Tasks/LeetCode75/ArrayStringTopic/Reverse Vowels of a String.md",
     "Reverse Words in a String.md",
     "Tasks/LeetCode75/ArrayStringTopic/Can Place Flowers.md",
-    "Tasks/LeetCode75/ArrayStringTopic/Greatest Common Divisor of Strings.md",
-    "README.md"
+    "Tasks/LeetCode75/ArrayStringTopic/Greatest Common Divisor of Strings.md"
   ]
 }

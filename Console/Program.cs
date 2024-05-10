@@ -49,3 +49,8 @@ using Tasks.LeetCode75.ArrayStringTopic;
 
 //var result1 = PairsCounter.CountPairs(new int[] { -1, 1, 2, 3, 1 }, 2);
 //var result2 = PairsCounter.CountPairs(new int[] { -6, 2, 5, -2, -7, -1, 3 }, -2);
+
+// ----------------------------------------------------------------------------
+
+var result1 = PrimeFractionFinder.KthSmallestPrimeFraction(new int[] { 1, 2, 3, 5 }, 3);
+//var result2 = PairsCounter.CountPairs(new int[] { -6, 2, 5, -2, -7, -1, 3 }, -2);
