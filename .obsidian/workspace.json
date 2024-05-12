@@ -11,8 +11,12 @@
             "id": "e39de7db06b4a21f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/Daily/README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tasks/Daily/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tasks/Daily/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tasks/Daily/README.md"
+              }
             }
           }
         ]
@@ -140,6 +148,9 @@
   },
   "active": "e39de7db06b4a21f",
   "lastOpenFiles": [
+    "Tasks/Daily/May2024/9.MatrixMaxLocalFinder.cs",
+    "Tasks/Daily/May2024/8 - Copy.Miser.cs",
+    "Tasks/Daily/May2024/8.Miser.cs",
     "Tasks/Daily/May2024/2.Miser.cs",
     "Tasks/Daily/May2024/7.PrimeFractionFinder.cs",
     "Tasks/Daily/May2024",
@@ -154,9 +165,6 @@
     "Tasks/TaskTags/TwoPointers/Easy/README.md",
     "Console/obj/Debug/net8.0/Console.csproj.FileListAbsolute.txt",
     "Console/bin/Debug/net8.0/Console.pdb",
-    "Console/obj/Debug/net8.0/ref/Console.dll",
-    "Console/bin/Debug/net8.0/Console.dll",
-    "Console/bin/Debug/net8.0/Console.runtimeconfig.json",
     "Tasks/LeetCode75/ArrayStringTopic README.md",
     "Tasks/LeetCode75/ArrayStringTopic/Product of Array Except Self.md",
     "Tasks/LeetCode75/ArrayStringTopic/Kids With the Greatest Number of Candies.md",

@@ -1,4 +1,5 @@
 ﻿using Tasks.Daily.April2024;
+using Tasks.Daily.May2024;
 using Tasks.LeetCode75.ArrayStringTopic;
 
 //var reverser = new PartReverser();
@@ -52,5 +53,16 @@ using Tasks.LeetCode75.ArrayStringTopic;
 
 // ----------------------------------------------------------------------------
 
-var result1 = PrimeFractionFinder.KthSmallestPrimeFraction(new int[] { 1, 2, 3, 5 }, 3);
-//var result2 = PairsCounter.CountPairs(new int[] { -6, 2, 5, -2, -7, -1, 3 }, -2);
+//var result1 = PrimeFractionFinder.KthSmallestPrimeFraction(new int[] { 1, 2, 3, 5 }, 3);
+
+// ----------------------------------------------------------------------------
+
+var result1 = MatrixMaxLocalFinder.LargestLocal(new int[][] 
+{ 
+    new int[] { 9, 9, 8, 1 }, 
+    new int[] { 5, 6, 2, 6 }, 
+    new int[] { 8, 2, 6, 4 }, 
+    new int[] { 6, 2, 2, 2 } 
+});
+
+Console.ReadLine();
