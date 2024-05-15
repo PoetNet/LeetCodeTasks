@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Daily/README.md",
+                "file": "AdditionalMaterials/Реализуем алгоритм поиска в глубину.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Daily/README.md",
+                "file": "AdditionalMaterials/Реализуем алгоритм поиска в глубину.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/Daily/README.md",
+                "file": "AdditionalMaterials/Реализуем алгоритм поиска в глубину.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Daily/README.md"
+                "file": "AdditionalMaterials/Реализуем алгоритм поиска в глубину.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "e39de7db06b4a21f",
   "lastOpenFiles": [
+    "Tasks/Daily/May2024/1219. Path with Maximum Gold.md",
+    "AdditionalMaterials/Реализуем алгоритм поиска в глубину.md",
+    "AdditionalMaterials",
+    "Tasks/Daily/README.md",
+    "Tasks/Daily/May2024/10.GoldMiner.cs",
+    "Tasks/Daily/May2024/9 - Copy.MatrixMaxLocalFinder.cs",
     "Tasks/Daily/May2024/9.MatrixMaxLocalFinder.cs",
     "Tasks/Daily/May2024/8 - Copy.Miser.cs",
     "Tasks/Daily/May2024/8.Miser.cs",
@@ -156,15 +162,10 @@
     "Tasks/Daily/May2024",
     "Tasks/Daily/NewFolder",
     "Tasks/Daily/April2024/README.md",
-    "Tasks/Daily/README.md",
     "README.md",
-    "Tasks/Daily/April2024/7.PrimeFractionFinder.cs",
-    "Tasks/Daily/April2024/6 - Copy.NodesRemover.cs",
     "Tasks/Daily/April2024/Compare Version Numbers.md",
     "Tasks/Daily/April2024/Boats to Save People.md",
     "Tasks/TaskTags/TwoPointers/Easy/README.md",
-    "Console/obj/Debug/net8.0/Console.csproj.FileListAbsolute.txt",
-    "Console/bin/Debug/net8.0/Console.pdb",
     "Tasks/LeetCode75/ArrayStringTopic README.md",
     "Tasks/LeetCode75/ArrayStringTopic/Product of Array Except Self.md",
     "Tasks/LeetCode75/ArrayStringTopic/Kids With the Greatest Number of Candies.md",
